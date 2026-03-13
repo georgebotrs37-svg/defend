@@ -67,4 +67,15 @@ curl "http://127.0.0.1:5000/protected/admin/%252e%252e/%252e%252e/etc/passwd"
 أضف/احذف methods في ALLOWED_METHODS
 زد عمق فك الـ encoding في is_path_suspicious()
 أضف rate limiting أو IP blocking لو عايز (سهل بـ flask-limiter أو dictionary)
+
+
+
+
+
+
+
+
+
+
+
 George Boutros – Security Analyst & Python Developer
