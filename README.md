@@ -78,4 +78,4 @@ curl "http://127.0.0.1:5000/protected/admin/%252e%252e/%252e%252e/etc/passwd"
 
 
 
-George Boutros – Security Analyst & Python Developer
+George Botrs – Security Analyst & Python Developer
